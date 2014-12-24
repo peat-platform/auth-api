@@ -6,7 +6,7 @@ Allows direct dbs via a private key, intended for internal use and demonstration
 
 ### WARNING!!!
 Currently requires the branched dao, mongrel2 and swagger-def - 'genericIO'
-Additionally, requires a 'dbkeys' bucket in the form of 'dbname={"key":"<thekey>"}'
+Additionally, requires a 'dbkeys' bucket in the form of 'dbname={"key":"<thekey>"}' or 'key={'dbs':["mydb"]}'
 
 Install the module with: `npm install git+ssh://git@github.com:OPENi-ict/crud_api.git`
 

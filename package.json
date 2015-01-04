@@ -26,6 +26,7 @@
      "openi_rrd": "OPENi-ict/openi_rrd",
     "openi-logger": "OPENi-ict/openi-logger",
     "uuid": "",
+    "jsonwebtoken": "",
     "scrypt": ""
   },
   "devDependencies": {

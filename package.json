@@ -27,6 +27,7 @@
     "openi-logger": "OPENi-ict/openi-logger",
     "openi_rrd": "OPENi-ict/openi_rrd",
     "scrypt": "",
+    "tracklet": "ssh://git@github.com:OPENi-ict/tracklet",
     "uuid": ""
   },
   "devDependencies": {

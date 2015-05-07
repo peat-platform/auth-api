@@ -1,15 +1,15 @@
 {
   "name": "auth_api",
-  "description": "OPENi semi-guarded auth API for the OPENi Cloudlet Platform",
+  "description": "OPENi semi-guarded auth API for the PEAT Cloudlet Platform",
   "version": "0.1.0",
-  "homepage": "openi-ict.eu",
+  "homepage": "peat-platform.org",
   "author": {
     "name": "",
     "email": ""
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:OPENi-ict/auth-api.git"
+    "url": "git@github.com:peat-platform/auth-api.git"
   },
   "main": "lib/main",
   "engines": {
@@ -19,15 +19,15 @@
     "test": "grunt nodeunit"
   },
   "dependencies": {
-    "dbc": "OPENi-ict/dbc",
+    "dbc": "peat-platform/dbc",
     "jsonwebtoken": "",
-    "loglet": "git://github.com/OPENi-ict/loglet",
-    "m2nodehandler": "OPENi-ict/m2nodehandler",
-    "openi-cloudlet-utils": "OPENi-ict/cloudlet-utils",
-    "openi-logger": "OPENi-ict/openi-logger",
-    "openi_rrd": "OPENi-ict/openi_rrd",
+    "loglet": "git://github.com/peat-platform/loglet",
+    "m2nodehandler": "peat-platform/m2nodehandler",
+    "openi-cloudlet-utils": "peat-platform/cloudlet-utils",
+    "openi-logger": "peat-platform/openi-logger",
+    "openi_rrd": "peat-platform/openi_rrd",
     "scrypt": "",
-    "tracklet": "git://github.com/OPENi-ict/tracklet",
+    "tracklet": "git://github.com/peat-platform/tracklet",
     "uuid": ""
   },
   "devDependencies": {

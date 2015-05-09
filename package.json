@@ -1,5 +1,5 @@
 {
-  "name": "auth_api",
+  "name": "auth-api",
   "description": "OPENi semi-guarded auth API for the PEAT Cloudlet Platform",
   "version": "0.1.0",
   "homepage": "peat-platform.org",

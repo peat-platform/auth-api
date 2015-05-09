@@ -25,7 +25,7 @@
     "m2nodehandler": "peat-platform/m2nodehandler",
     "cloudlet-utils": "peat-platform/cloudlet-utils",
     "peat-logger": "peat-platform/peat-logger",
-    "openi_rrd": "peat-platform/openi_rrd",
+    "peat-rrd": "peat-platform/peat-rrd",
     "scrypt": "",
     "tracklet": "git://github.com/peat-platform/tracklet",
     "uuid": ""

@@ -21,13 +21,13 @@
   "dependencies": {
     "dbc": "peat-platform/dbc",
     "jsonwebtoken": "",
-    "loglet": "git://github.com/peat-platform/loglet",
-    "m2nodehandler": "peat-platform/m2nodehandler",
-    "cloudlet-utils": "peat-platform/cloudlet-utils",
-    "peat-logger": "peat-platform/peat-logger",
-    "peat-rrd": "peat-platform/peat-rrd",
+    "loglet": "git://github.com/peat-platform/loglet#finalOPENiMerge",
+    "m2nodehandler": "peat-platform/m2nodehandler#finalOPENiMerge",
+    "cloudlet-utils": "peat-platform/cloudlet-utils#finalOPENiMerge",
+    "peat-logger": "peat-platform/peat-logger#finalOPENiMerge",
+    "peat-rrd": "peat-platform/peat-rrd#finalOPENiMerge",
     "scrypt": "",
-    "tracklet": "git://github.com/peat-platform/tracklet",
+    "tracklet": "git://github.com/peat-platform/tracklet#finalOPENiMerge",
     "uuid": ""
   },
   "devDependencies": {
